@@ -14,7 +14,7 @@ export class CardComponent {
         nombre: "Guts",
         tipo: "Humano",
         imagen: "https://i.pinimg.com/originals/0b/e3/42/0be342ddb0381c2c13131fd8a3e115b0.jpg",
-        descripcion: "Es un antiguo mercenario marcado que viaja por el mundo en una lucha interna constante entre perseguir su venganza y proteger a sus seres queridos.",
+        descripcion: "Un antiguo mercenario marcado que viaja por el mundo en una lucha interna constante entre perseguir su venganza y proteger a sus seres queridos.",
     },
     {
         nombre: "Griffith",
